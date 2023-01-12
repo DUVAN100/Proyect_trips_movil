@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "218806998713",
+    "project_id": "paseo-viernes-c3cf2",
+    "storage_bucket": "paseo-viernes-c3cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218806998713:android:6c46b2b7c8045c8a5bad68",
+        "android_client_info": {
+          "package_name": "com.edu.paseoviernes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218806998713-jrq31o7c045fb7ktsa5usnpb80bljmr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6_moZwEgHwSIiQEF3hCNROChyeFKhf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218806998713-jrq31o7c045fb7ktsa5usnpb80bljmr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218806998713:android:f5e0f0e2fb97ba805bad68",
+        "android_client_info": {
+          "package_name": "com.example.paseo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218806998713-jrq31o7c045fb7ktsa5usnpb80bljmr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6_moZwEgHwSIiQEF3hCNROChyeFKhf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218806998713-jrq31o7c045fb7ktsa5usnpb80bljmr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
